@@ -1,0 +1,1 @@
+In this ipython/jupyter tutorial I use Keras/Theano and an LSTM to predict sentiment for the IMDB dataset. This method is than compared empirically to TF-IDF and logistic regression. Finally, I pull the learned embeddings out of the model and analyze their structure with cosine search and T-SNE to demostrate what the LSTM has learned.
